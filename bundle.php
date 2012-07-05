@@ -1,3 +1,3 @@
-<?php 
+<?php
 
-return array('name' => 'twitterfeed);
+return array('name' => 'twitterfeed');
